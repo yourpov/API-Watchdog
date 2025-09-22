@@ -1,0 +1,9 @@
+{
+  "global": {
+    "discord_webhook": "",
+    "request_timeout_ms": 8000
+  },
+  "checks": [
+    { "name": "", "url": "", "check_interval_seconds": 15}
+  ]
+}
